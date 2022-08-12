@@ -17,7 +17,7 @@ public class Pusher {
     /**
      * 测试号的appId和secret
      */
-    private static String appId = "wxa1404027313ba642";
+    private static String appId = "xxx";
     private static String secret = "2d2c5b72203d7ea7ebc4cdda1c3a9e86";
     //模版id
     private static String templateId = "BmHHbIFsP7SqjebQ5rgDRjBxPtRcDxgrvqyiAojgrh8";
